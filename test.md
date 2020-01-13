@@ -1,5 +1,5 @@
-# first
-#Hellow World~!! 
+
+#Hellow World~!! 안녕하세여!!!!
 #for(int i=1; i<=9; i++;)
 { 
   for(int j=1; j<=9; j++)
